@@ -21,7 +21,7 @@ This tool will **not** help you pirate the game. It requires a Microsoft account
 
 * A Microsoft account connected to Microsoft Store which **owns Minecraft for Windows**
 * **Administrator permissions** on your user account
-* **Developer mode** enabled for app installation in Windows Settings
+* **Developer mode** enabled for app installation in Windows Settings (Not Nesscessry)
 * For beta versions: **subscribe to the Minecraft Beta program** via Xbox Insider Hub
 * [Microsoft Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
