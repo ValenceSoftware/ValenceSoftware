@@ -8,8 +8,8 @@ Valence Launcher lets you install several versions of Minecraft: Bedrock Edition
 
 | Role | Name |
 |------|------|
-| Owner | **ItsAstralMC** |
-| Contributor | **Mydemons2354** |
+| Owner | **ItsAstralMC/Mydemons2354** |
+| Contributor | **Shroom/Wisp0202** |
 
 UI design inspired by [Jiayi Launcher](https://github.com/JiayiSoftware/JiayiLauncher). Based on the Minecraft Bedrock version launcher by MCMrARM.
 
